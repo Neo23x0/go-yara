@@ -1,3 +1,5 @@
+![Logo](/goyara-logo.svg)
+
 # go-yara
 
 [![GoDoc](https://godoc.org/github.com/hillu/go-yara?status.svg)](https://godoc.org/github.com/hillu/go-yara)
